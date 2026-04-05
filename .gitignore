@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.npm/
+*.log
+.gemini/
+.agent/
+.system_generated/
+tmp/
+*.tmp
